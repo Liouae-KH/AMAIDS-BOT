@@ -12,8 +12,7 @@ from telegram.ext import (
 )
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8382326692:AAHGsHvcFSF24hzBW_ebvbHf2FRT-mZo_vg"
-# Enable logging
+BOT_TOKEN = os.environ.get('BOT_TOKEN')
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     level=logging.INFO
