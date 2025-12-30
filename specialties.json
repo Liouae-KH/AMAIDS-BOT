@@ -1,0 +1,1492 @@
+{
+  "university": "University of Kasdi Merbah Ouargla",
+  "faculty": "Faculty of Mathematics and Materials Science",
+  "department": "Mathematics",
+  "domain": "Mathematics and Computer Science",
+  "field": "Mathematics",
+  "specialty": "Applied Mathematics for Artificial Intelligence and Data Science",
+  "academic_year": "2025/2026",
+  "degree_type": "Academic License (Double Competence)",
+  "duration": "3 years (6 semesters)",
+  "total_credits": 180,
+  "program_overview": {
+    "description": "A three-year undergraduate program that integrates fundamental mathematics, applied mathematics, computer science, and data science with strong emphasis on AI applications.",
+    "structure": "Organized into 6 semesters with 30 credits each, comprising Fundamental, Methodological, Discovery, and Transversal teaching units.",
+    "weekly_hours": 36,
+    "total_hours": 3577
+  },
+  "objectives": [
+    "Provide a solid foundation in pure and applied mathematics (analysis, algebra, probability, differential equations)",
+    "Develop expertise in artificial intelligence and data science (machine learning, deep learning, NLP, computer vision)",
+    "Equip students with computational skills in Python for implementing mathematical models and AI algorithms",
+    "Foster interdisciplinary competencies including scientific communication and ethical considerations in AI",
+    "Prepare graduates for professional roles in data science, AI, or further academic studies"
+  ],
+  "targeted_profiles": [
+    "Data analysts, machine learning engineers, or AI specialists in industry sectors like energy, technology, and finance",
+    "Researchers with strong mathematical foundation for master's or doctoral studies",
+    "Professionals with interdisciplinary skills bridging mathematics, computer science, and AI applications"
+  ],
+  "competencies": {
+    "mathematical_skills": [
+      "Advanced mathematical concepts (functional analysis, stochastic processes, optimization)",
+      "Modeling complex systems",
+      "Statistical inference and probabilistic modeling"
+    ],
+    "computational_skills": [
+      "Programming in Python and C",
+      "Using AI libraries (TensorFlow, PyTorch, scikit-learn, NLTK)",
+      "Implementing AI and data science applications"
+    ],
+    "data_science_skills": [
+      "Data preprocessing, analysis, and visualization",
+      "Implementing machine learning models",
+      "Time series analysis"
+    ],
+    "soft_skills": [
+      "Scientific communication",
+      "Ethical reasoning in AI applications",
+      "Entrepreneurial thinking"
+    ]
+  },
+  "employability": {
+    "regional": {
+      "energy_sector": "Ouargla is a hub for Algeria's oil/gas industry. Opportunities with Sonatrach for operational optimization, predictive maintenance, resource exploration analytics",
+      "technology_initiatives": "Tech startups in agriculture, logistics, urban planning seeking data analysts and AI specialists",
+      "education_research": "Local universities and research centers for academic projects in applied mathematics and AI"
+    },
+    "national": {
+      "technology_it": "Growing demand in Algiers, Oran (fintech, e-commerce, telecommunications)",
+      "public_sector": "Government agencies for data-driven policy analysis, digital transformation",
+      "finance_banking": "Risk modeling, fraud detection, algorithmic trading",
+      "international_companies": "Multinational firms in Algeria recruiting for data analytics and AI roles"
+    }
+  },
+  "further_study_pathways": {
+    "masters_programs": [
+      "Applied Mathematics (numerical analysis, optimization, stochastic processes)",
+      "Computer Science (machine learning, data science, AI)",
+      "Data Science and AI (deep learning, NLP, computer vision)",
+      "Statistics (statistical modeling, econometrics)"
+    ],
+    "interdisciplinary_fields": [
+      "Bioinformatics (biological data analysis)",
+      "Financial Mathematics (quantitative finance, risk management)",
+      "Engineering (electrical engineering, operations research)"
+    ],
+    "professional_certifications": [
+      "TensorFlow Developer Certificate",
+      "AWS Certified Data Analytics",
+      "AI certifications"
+    ],
+    "research_academia": "Doctoral studies in mathematics, AI, or interdisciplinary fields"
+  },
+  "teaching_staff_summary": {
+    "professors": 12,
+    "associate_professors_a": 6,
+    "associate_professors_b": 8,
+    "assistant_professors_a": 2,
+    "total": 28
+  },
+  "material_resources": {
+    "laboratory": "Applied Mathematics Lab",
+    "equipment": [
+      {
+        "item": "PC",
+        "quantity": 20
+      }
+    ],
+    "student_capacity": "Not specified"
+  },
+  "curriculum": {
+    "semester1": {
+      "total_credits": 30,
+      "total_hours": 378,
+      "courses": [
+        {
+          "code": "UEF1.1.1",
+          "name": "Analysis I",
+          "type": "Fundamental",
+          "credits": 6,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 84
+          },
+          "objectives": "Familiarize students with set theory vocabulary, study convergence methods for real sequences, and explore various aspects of the analysis of functions of one real variable.",
+          "prerequisites": "Mathematics at the level of 3rd-year secondary scientific and technical education.",
+          "content": [
+            "Chapter I: The Field of Real Numbers - ℝ as a commutative and totally ordered field, mathematical induction, intervals, supremum and infimum",
+            "Chapter II: The Field of Complex Numbers - Algebraic operations, modulus, trigonometric and exponential forms, Euler's formulas, nth roots",
+            "Chapter III: Sequences of Real Numbers - Bounded and convergent sequences, arithmetic operations, infinite limits, Cauchy sequences",
+            "Chapter IV: Real Functions of One Real Variable - Function graphs, limits, continuity, uniform continuity, theorems for continuous functions",
+            "Chapter V: Differentiable Functions - Derivatives, geometric interpretation, Taylor's formula, local extrema, convexity",
+            "Chapter VI: Elementary Functions - Natural logarithm, exponential, hyperbolic functions and their inverses"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J.-M. Monier, Analyse PCSI-PTSI, Dunod, 2003",
+            "Y. Bougrov & S. Nikolski, Cours de Mathématiques Supérieures, Mir, 1983",
+            "N. Piskounov, Calcul différentiel et intégral, Tome 1, Mir, 1980",
+            "K. Allab, Eléments d'Analyse, OPU, 1984"
+          ]
+        },
+        {
+          "code": "UEF1.1.2",
+          "name": "Algebra I",
+          "type": "Fundamental",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Introduce fundamental concepts of algebra and set theory.",
+          "prerequisites": "Classical algebra notions.",
+          "content": [
+            "Chapter 1: Logic - Truth tables, quantifiers, types of reasoning",
+            "Chapter 2: Sets and Functions - Definitions, injective, surjective, bijective functions, direct and inverse images",
+            "Chapter 3: Binary Relations - Reflexive, symmetric, antisymmetric, transitive relations, equivalence relations",
+            "Chapter 4: Algebraic Structures - Groups, subgroups, homomorphisms, rings, fields",
+            "Chapter 5: Polynomial Rings - Polynomial arithmetic, divisibility, Euclidean division, irreducible factorization"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "M. Mignotte & J. Nervi, Algebre: licences sciences 1ère année, Ellipses, 2004",
+            "J. Franchini & J. C. Jacques, Algebre: cours, exercices corrigés, Ellipses, 1996",
+            "C. Degrave & D. Degrave, Algebre 1ère année, Bréal, 2003"
+          ]
+        },
+        {
+          "code": "UEF1.2.1",
+          "name": "Algorithms and Data Structures I",
+          "type": "Fundamental",
+          "credits": 6,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 1.5,
+            "practical": 3,
+            "personal_work": 3,
+            "total_hours": 105
+          },
+          "objectives": "Introduce concepts of algorithms and data structures.",
+          "prerequisites": "Basic computer science and mathematics.",
+          "content": [
+            "Chapter 1: Introduction - Brief history of computer science, introduction to algorithmics",
+            "Chapter 2: Simple Sequential Algorithms - Algorithm components, variables, data types, basic operations",
+            "Chapter 3: Conditional Structures - Simple and compound conditional structures, multiple choice structures",
+            "Chapter 4: Loops - While, repeat, for loops, nested loops",
+            "Chapter 5: Subprograms - Functions and procedures, local and global variables, recursion",
+            "Chapter 6: Arrays and Strings - Array types, multidimensional arrays, string manipulation"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "Algorithms Notions de base, 2013",
+            "Algorithmique - 3ème édition, Dunod, 2010",
+            "R. Malgouyres et al., Initiation à l'algorithmique et à la programmation en C, Dunod, 2011"
+          ],
+          "note": "Practical work (TP) in C"
+        },
+        {
+          "code": "UEM1.1",
+          "name": "Discrete Mathematics",
+          "type": "Methodological",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Provide students with foundational concepts in discrete mathematics, essential for computer science and applied mathematics, including logic, set theory, combinatorics, and graph theory basics.",
+          "prerequisites": "Basic high school mathematics.",
+          "content": [
+            "Chapter 1: Propositional Logic - Propositions, logical connectives, truth tables, tautologies",
+            "Chapter 2: Predicate Logic - Predicates, quantifiers, nested quantifiers, logical inferences",
+            "Chapter 3: Set Theory - Sets, subsets, power sets, set operations, Venn diagrams",
+            "Chapter 4: Functions and Relations - Injective, surjective, bijective functions, equivalence relations",
+            "Chapter 5: Combinatorics - Counting principles, permutations, combinations, binomial theorem",
+            "Chapter 6: Introduction to Graph Theory - Graphs, vertices, edges, paths, cycles, trees"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "K. H. Rosen, Discrete Mathematics and Its Applications, McGraw-Hill, 2018",
+            "R. P. Grimaldi, Discrete and Combinatorial Mathematics, Pearson, 2004",
+            "N. L. Biggs, Discrete Mathematics, Oxford University Press, 2002"
+          ],
+          "note": "Practical work includes problem-solving sessions and basic programming exercises"
+        },
+        {
+          "code": "UEM1.2",
+          "name": "Free Software",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Familiarize students with computer tools and the Internet, focusing on open-source software.",
+          "prerequisites": "General computer literacy.",
+          "content": [
+            "Chapter 1: Information Technologies - Hardware, software, applications, communication spaces",
+            "Chapter 2: Open-Source Tools - History, advantages, licenses, development environments, office suites"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "Microsoft Office 2016, Eni, 2016",
+            "Word et Excel 2016 pour les nuls, 2016",
+            "M. Gris, Initiation à Internet, Eni, 2009"
+          ]
+        },
+        {
+          "code": "UED1.1",
+          "name": "Introduction to Data Visualization",
+          "type": "Discovery",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Introduce students to the principles of data visualization, focusing on creating effective visual representations of data using open-source tools, with applications in mathematics and data science.",
+          "prerequisites": "Basic computer literacy and introductory mathematics.",
+          "content": [
+            "Chapter 1: Introduction to Data Visualization - Importance of visualization, types of data, principles of effective visualization",
+            "Chapter 2: Data Visualization Tools - Overview of open-source tools (Matplotlib, Seaborn, Plotly), visualization in Python",
+            "Chapter 3: Basic Visualization Techniques - Plot types: bar charts, line plots, scatter plots, histograms",
+            "Chapter 4: Visualizing Mathematical Data - Plotting functions and mathematical relationships, visualizing statistical data",
+            "Chapter 5: Best Practices and Design Principles - Avoiding common pitfalls, accessibility and clarity in visualizations"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "E. Tufte, The Visual Display of Quantitative Information, Graphics Press, 2001",
+            "C. Ware, Information Visualization: Perception for Design, Morgan Kaufmann, 2020",
+            "J. VanderPlas, Python Data Science Handbook, O'Reilly, 2016"
+          ],
+          "note": "Tutorials focus on hands-on exercises using Python libraries like Matplotlib"
+        },
+        {
+          "code": "UET1.1",
+          "name": "Academic English for AI and Data Science",
+          "type": "Transversal",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 21
+          },
+          "objectives": "Familiarize students with academic and technical English in mathematics and computer science, improving reading, writing, listening, and speaking skills.",
+          "prerequisites": "Basic computer literacy.",
+          "content": [
+            "Reading Comprehension and Technical Vocabulary - Analyzing scientific texts, learning technical vocabulary",
+            "Writing Skills - Writing sentences/paragraphs on mathematical concepts, emails, technical summaries",
+            "Listening Comprehension and Pronunciation - Analyzing scientific videos/lectures, recognizing technical terms",
+            "Speaking Skills and Communication - Simple presentations, role-playing, discussions"
+          ],
+          "evaluation": {
+            "continuous": 0,
+            "exam": 100
+          },
+          "references": [
+            "R. Murphy, English Grammar in Use, Cambridge, 2004",
+            "M. McCarthy & F. O'Dell, English Vocabulary in Use, Cambridge, 1994",
+            "L. Rozakis, English Grammar for the Utterly Confused, McGraw-Hill, 2003"
+          ],
+          "teaching_methodology": "Interactive approach with authentic documents, practical exercises, quizzes, assignments, presentations"
+        }
+      ]
+    },
+    "semester2": {
+      "total_credits": 30,
+      "total_hours": 336,
+      "courses": [
+        {
+          "code": "UEF2.1.1",
+          "name": "Analysis II",
+          "type": "Fundamental",
+          "credits": 6,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 84
+          },
+          "objectives": "Deepen knowledge of differential and integral calculus of functions of one real variable, and introduce numerical sequences and series.",
+          "prerequisites": "Analysis I or equivalent.",
+          "content": [
+            "Chapter I: Numerical Sequences and Series - Geometric series, harmonic series, comparison tests, power series",
+            "Chapter II: Integrals - Riemann integral, properties, fundamental theorem of calculus, integration techniques",
+            "Chapter III: Differential Equations - First-order equations, second-order linear equations with constant coefficients",
+            "Chapter IV: Functions of Several Variables - Limits, continuity, partial derivatives, gradient, extrema"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J.-M. Monier, Analyse PCSI-PTSI, Dunod, 2003",
+            "N. Piskounov, Calcul différentiel et intégral, Tome 1, Mir, 1980",
+            "K. Allab, Eléments d'Analyse, OPU, 1984"
+          ]
+        },
+        {
+          "code": "UEF2.1.2",
+          "name": "Algebra II",
+          "type": "Fundamental",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Deepen knowledge of linear algebra, focusing on vector spaces, matrices, and linear transformations.",
+          "prerequisites": "Algebra I or equivalent.",
+          "content": [
+            "Chapter I: Vector Spaces - Definition, subspaces, linear independence, basis, dimension",
+            "Chapter II: Matrices - Matrix operations, determinants, inverse matrices, rank",
+            "Chapter III: Linear Transformations - Definitions, kernel, image, eigenvalues, eigenvectors",
+            "Chapter IV: Applications - Solving linear systems, geometric transformations"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "M. Mignotte & J. Nervi, Algebre: licences sciences 1ère année, Ellipses, 2004",
+            "J. Franchini & J. C. Jacques, Algebre: cours, exercices corrigés, Ellipses, 1996",
+            "S. Balac & F. Sturm, Algebre et analyse, PPUR, 2003"
+          ]
+        },
+        {
+          "code": "UEF2.2.1",
+          "name": "Algorithms and Data Structures 2",
+          "type": "Fundamental",
+          "credits": 4,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 63
+          },
+          "objectives": "Build on Algorithms and Data Structures 1 to introduce advanced algorithmic concepts and data structures, with practical implementation in C.",
+          "prerequisites": "Algorithms and Data Structures I or equivalent.",
+          "content": [
+            "Chapter 1: Advanced Algorithms - Algorithm analysis, time and space complexity, Big-O notation",
+            "Chapter 2: Sorting Algorithms - Bubble sort, insertion sort, selection sort, quick sort, merge sort",
+            "Chapter 3: Data Structures - Linked lists, stacks and queues, binary trees, traversals",
+            "Chapter 4: Recursion - Recursive algorithms, divide-and-conquer, examples",
+            "Chapter 5: Practical Implementation - Coding sorting algorithms and data structures in C"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "Algorithmique - 3ème édition, Dunod, 2010",
+            "R. Malgouyres et al., Initiation à l'algorithmique et à la programmation en C, Dunod, 2011",
+            "T. H. Cormen et al., Introduction to Algorithms, MIT Press, 2009"
+          ],
+          "note": "Practical work (TP) in C"
+        },
+        {
+          "code": "UEF2.2.2",
+          "name": "Probability and Descriptive Statistics",
+          "type": "Fundamental",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Introduce fundamental concepts of probability and descriptive statistics, with an emphasis on Bayesian methods.",
+          "prerequisites": "Basic mathematics, Analysis I.",
+          "content": [
+            "Chapter 1: Introduction to Probability - Sample spaces, events, probability axioms, conditional probability, Bayes' theorem",
+            "Chapter 2: Random Variables - Discrete and continuous random variables, probability distributions",
+            "Chapter 3: Descriptive Statistics - Measures of central tendency, measures of dispersion, data visualization",
+            "Chapter 4: Bayesian Statistics - Bayesian inference, prior and posterior distributions, Bayes' theorem applications"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. E. Freund, Mathematical Statistics with Applications, Pearson, 2014",
+            "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers, Wiley, 2014",
+            "J. O. Berger, Statistical Decision Theory and Bayesian Analysis, Springer, 1985"
+          ],
+          "note": "Practical work includes statistical computations and visualizations"
+        },
+        {
+          "code": "UEM2.1",
+          "name": "Introduction to Artificial Intelligence",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 21
+          },
+          "objectives": "Provide an overview of artificial intelligence concepts, including machine learning basics, with practical applications relevant to applied mathematics.",
+          "prerequisites": "Basic programming, Algorithms and Data Structures I.",
+          "content": [
+            "Chapter 1: Introduction to AI - History and definitions of AI, applications in mathematics and data science",
+            "Chapter 2: Machine Learning Basics - Supervised vs. unsupervised learning, linear regression, classification",
+            "Chapter 3: Data Preprocessing - Data cleaning, normalization, feature selection and engineering",
+            "Chapter 4: Simple AI Models - Decision trees, k-nearest neighbors, introduction to neural networks",
+            "Chapter 5: Practical Implementation - Implementing basic AI algorithms in Python"
+          ],
+          "evaluation": {
+            "continuous": 0,
+            "exam": 100
+          },
+          "references": [
+            "S. J. Russell & P. Norvig, Artificial Intelligence: A Modern Approach, Pearson, 2020",
+            "A. Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O'Reilly, 2019",
+            "T. M. Mitchell, Machine Learning, McGraw-Hill, 1997"
+          ],
+          "note": "Practical work (TP) in Python, using libraries like scikit-learn"
+        },
+        {
+          "code": "UED2.1",
+          "name": "Mathematical Physics Equations",
+          "type": "Discovery",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Introduce mathematical methods for solving fundamental equations in physics, focusing on their applications in modeling physical phenomena.",
+          "prerequisites": "Analysis I, Physics I.",
+          "content": [
+            "Chapter 1: Introduction to Physical Modeling - Role of mathematics in physics, types of physical equations",
+            "Chapter 2: Ordinary Differential Equations in Physics - Harmonic oscillator, damped systems, applications in mechanics",
+            "Chapter 3: Partial Differential Equations - Wave equation, heat equation, boundary and initial conditions",
+            "Chapter 4: Numerical Methods - Finite difference methods for PDEs, basic simulations"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "G. B. Arfken & H. J. Weber, Mathematical Methods for Physicists, Academic Press, 2012",
+            "M. L. Boas, Mathematical Methods in the Physical Sciences, Wiley, 2005",
+            "J. R. Taylor, Classical Mechanics, University Science Books, 2005"
+          ],
+          "note": "Practical work includes numerical simulations using Python"
+        },
+        {
+          "code": "UET2.1",
+          "name": "Fundamentals of Programming and Scientific Computing with Python",
+          "type": "Transversal",
+          "credits": 3,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Teach foundational programming skills in Python and their application to scientific computing in mathematics and data science.",
+          "prerequisites": "Basic computer literacy, Algorithms and Data Structures I.",
+          "content": [
+            "Chapter 1: Python Basics - Variables, data types, control structures, functions, modules",
+            "Chapter 2: Scientific Computing Libraries - NumPy (arrays, linear algebra), SciPy (numerical methods), Matplotlib (plotting)",
+            "Chapter 3: Numerical Methods - Solving linear systems, root finding, numerical integration",
+            "Chapter 4: Applications - Simulating mathematical models, data analysis and visualization"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. VanderPlas, Python Data Science Handbook, O'Reilly, 2016",
+            "A. B. Downey, Think Python, O'Reilly, 2015",
+            "H. P. Langtangen, A Primer on Scientific Programming with Python, Springer, 2016"
+          ],
+          "note": "Practical work focuses on implementing numerical algorithms in Python"
+        }
+      ]
+    },
+    "semester3": {
+      "total_credits": 30,
+      "total_hours": 399,
+      "courses": [
+        {
+          "code": "UEFM3.1",
+          "name": "Analysis III",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 84
+          },
+          "objectives": "Study advanced topics in analysis, including functions of several variables, multiple integrals, and differential equations.",
+          "prerequisites": "Analysis II or equivalent.",
+          "content": [
+            "Chapter 1: Functions of Several Variables - Limits, continuity, partial derivatives, gradient, directional derivatives, chain rule, Taylor's theorem",
+            "Chapter 2: Optimization - Extrema of functions, Hessian matrix, Lagrange multipliers, constrained optimization",
+            "Chapter 3: Multiple Integrals - Double and triple integrals, change of variables, polar, cylindrical, spherical coordinates, applications in physics and geometry",
+            "Chapter 4: Differential Equations - Systems of linear differential equations, existence and uniqueness theorems, series solutions, special functions"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. E. Marsden & A. J. Tromba, Vector Calculus, W. H. Freeman, 2012",
+            "N. Piskounov, Calcul différentiel et integral, Tome 2, Mir, 1980",
+            "J. Stewart, Calculus: Early Transcendentals, Cengage Learning, 2015"
+          ]
+        },
+        {
+          "code": "UEFM3.2",
+          "name": "Algebra III",
+          "type": "Fundamental",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 42
+          },
+          "objectives": "Deepen knowledge of linear algebra, focusing on advanced topics in vector spaces, linear transformations, and applications.",
+          "prerequisites": "Algebra II or equivalent.",
+          "content": [
+            "Chapter 1: Advanced Vector Spaces - Review of vector spaces, bases, dimension, dual spaces, quotient spaces, linear forms and applications",
+            "Chapter 2: Linear Transformations - Eigenvalues, eigenvectors, eigenspaces, diagonalization, Jordan canonical form, spectral theorem for symmetric matrices",
+            "Chapter 3: Inner Product Spaces - Inner products, norms, orthogonality, orthogonal and orthonormal bases, Gram-Schmidt process",
+            "Chapter 4: Applications - Quadratic forms and their applications, singular value decomposition (introduction), applications in geometry and data science"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "M. Mignotte & J. Nervi, Algebre: licences sciences 1ère année, Ellipses, 2004",
+            "S. Lang, Linear Algebra, Springer, 2004",
+            "G. Strang, Introduction to Linear Algebra, Wellesley-Cambridge Press, 2016"
+          ]
+        },
+        {
+          "code": "UEFM3.3",
+          "name": "Introduction to Topology",
+          "type": "Fundamental",
+          "credits": 6,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 84
+          },
+          "objectives": "Introduce fundamental concepts of topology, focusing on metric spaces and topological spaces.",
+          "prerequisites": "Analysis I, Algebra I.",
+          "content": [
+            "Chapter 1: Metric Spaces - Definition, examples (ℝⁿ, function spaces), open and closed sets, neighborhoods, convergence, continuity in metric spaces",
+            "Chapter 2: Topological Spaces - Definition, basis, subbasis, open and closed sets, closure, interior, continuous functions, homeomorphisms",
+            "Chapter 3: Properties of Topological Spaces - Connectedness, path-connectedness, compactness, Heine-Borel theorem, separation axioms (Hausdorff spaces)",
+            "Chapter 4: Applications - Applications in analysis and geometry, introduction to manifolds (basic concepts)"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. R. Munkres, Topology, Pearson, 2000",
+            "S. Willard, General Topology, Dover, 2004",
+            "G. F. Simmons, Introduction to Topology and Modern Analysis, McGraw-Hill, 1963"
+          ]
+        },
+        {
+          "code": "UEM3.1",
+          "name": "Numerical Analysis",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 63
+          },
+          "objectives": "Introduce numerical methods for solving mathematical problems, with practical implementation.",
+          "prerequisites": "Analysis II, Algorithms and Data Structures I.",
+          "content": [
+            "Chapter 1: Introduction to Numerical Analysis - Errors: round-off, truncation, stability and convergence of numerical methods",
+            "Chapter 2: Numerical Linear Algebra - Solving linear systems: direct methods (Gaussian elimination), iterative methods (Jacobi, Gauss-Seidel)",
+            "Chapter 3: Root Finding - Bisection method, Newton-Raphson method, fixed-point iteration",
+            "Chapter 4: Interpolation and Approximation - Polynomial interpolation: Lagrange, Newton, least squares approximation",
+            "Chapter 5: Numerical Integration - Trapezoidal rule, Simpson's rule, Gaussian quadrature"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "R. L. Burden & J. D. Faires, Numerical Analysis, Cengage Learning, 2010",
+            "A. Quarteroni et al., Numerical Mathematics, Springer, 2007",
+            "E. Suli & D. F. Mayers, An Introduction to Numerical Analysis, Cambridge University Press, 2003"
+          ],
+          "note": "Practical work (TP) in Python or C"
+        },
+        {
+          "code": "UEM3.2",
+          "name": "Mathematics for Machine Learning 1",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Introduce mathematical foundations of machine learning, focusing on linear algebra, optimization, and probability.",
+          "prerequisites": "Algebra II, Probability and Descriptive Statistics, Introduction to Artificial Intelligence.",
+          "content": [
+            "Chapter 1: Linear Algebra for Machine Learning - Matrix operations, eigenvalues, singular value decomposition, vector norms, matrix factorization",
+            "Chapter 2: Optimization - Gradient descent, stochastic gradient descent, convex optimization, loss functions",
+            "Chapter 3: Probability and Statistics - Probability distributions in machine learning, Bayesian inference, maximum likelihood estimation",
+            "Chapter 4: Introduction to Machine Learning Models - Linear regression, logistic regression, basic neural networks"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "I. Goodfellow et al., Deep Learning, MIT Press, 2016",
+            "K. P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012",
+            "M. P. Deisenroth et al., Mathematics for Machine Learning, Cambridge University Press, 2020"
+          ],
+          "note": "Practical work includes implementing machine learning algorithms in Python using libraries like scikit-learn"
+        },
+        {
+          "code": "UED3.1",
+          "name": "Graph Theory",
+          "type": "Discovery",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Provide an introduction to graph theory, focusing on basic concepts and applications in applied mathematics and computer science.",
+          "prerequisites": "Discrete Mathematics or equivalent.",
+          "content": [
+            "Chapter 1: Introduction to Graphs - Definitions: vertices, edges, directed/undirected graphs, types of graphs: simple, multigraphs, weighted graphs",
+            "Chapter 2: Graph Properties - Degree, paths, cycles, connectivity, components",
+            "Chapter 3: Trees and Spanning Trees - Properties of trees, minimum spanning trees (Kruskal's, Prim's algorithms)",
+            "Chapter 4: Applications - Graph coloring, shortest paths (Dijkstra's algorithm), applications in networks and optimization"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "R. Diestel, Graph Theory, Springer, 2017",
+            "J. A. Bondy & U. S. R. Murty, Graph Theory, Springer, 2008",
+            "D. B. West, Introduction to Graph Theory, Pearson, 2001"
+          ]
+        },
+        {
+          "code": "UET3.1",
+          "name": "Data Analysis",
+          "type": "Transversal",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 42
+          },
+          "objectives": "Introduce techniques for data analysis, focusing on statistical methods and visualization for applied mathematics.",
+          "prerequisites": "Probability and Descriptive Statistics, Introduction to Data Visualization.",
+          "content": [
+            "Chapter 1: Data Collection and Preparation - Data types, cleaning, handling missing values, data preprocessing techniques",
+            "Chapter 2: Exploratory Data Analysis - Descriptive statistics: mean, variance, quantiles, visualizations: scatter plots, box plots, heatmaps",
+            "Chapter 3: Statistical Analysis - Hypothesis testing, p-values, correlation and regression analysis",
+            "Chapter 4: Tools for Data Analysis - Using Python (pandas, Matplotlib, Seaborn), basic data analysis workflows"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. W. Tukey, Exploratory Data Analysis, Addison-Wesley, 1977",
+            "J. VanderPlas, Python Data Science Handbook, O'Reilly, 2016",
+            "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers, Wiley, 2014"
+          ]
+        }
+      ]
+    },
+    "semester4": {
+      "total_credits": 30,
+      "total_hours": 420,
+      "courses": [
+        {
+          "code": "UEF4.1",
+          "name": "Measure and Integration",
+          "type": "Fundamental",
+          "credits": 6,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Introduce the theory of measure and integration, providing a foundation for advanced analysis and applications in probability and functional analysis.",
+          "prerequisites": "Analysis III or equivalent.",
+          "content": [
+            "Chapter 1: Sigma-Algebras and Measures - Sigma-algebras, measurable spaces, measures, properties, Lebesgue measure",
+            "Chapter 2: Measurable Functions - Definition, properties, simple functions, approximation",
+            "Chapter 3: Lebesgue Integration - Definition, comparison with Riemann integral, monotone and dominated convergence theorems, Fubini's theorem",
+            "Chapter 4: L^p Spaces - Definition, properties, Hölder and Minkowski inequalities",
+            "Chapter 5: Applications - Applications in probability and analysis, introduction to integration in infinite-dimensional spaces"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "W. Rudin, Real and Complex Analysis, McGraw-Hill, 1987",
+            "G. B. Folland, Real Analysis: Modern Techniques and Their Applications, Wiley, 1999",
+            "H. L. Royden, Real Analysis, Pearson, 1988"
+          ]
+        },
+        {
+          "code": "UEF4.2",
+          "name": "Normed Vector Spaces",
+          "type": "Fundamental",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Study normed vector spaces and their properties, laying the groundwork for functional analysis.",
+          "prerequisites": "Algebra III, Analysis III.",
+          "content": [
+            "Chapter 1: Normed Vector Spaces - Definitions, examples (ℝⁿ, function spaces), norms, equivalent norms",
+            "Chapter 2: Banach Spaces - Completeness, examples, bounded linear operators",
+            "Chapter 3: Inner Product Spaces - Hilbert spaces, examples, orthogonality, projections",
+            "Chapter 4: Applications - Applications in optimization and approximation, introduction to spectral theory"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "E. Kreyszig, Introductory Functional Analysis with Applications, Wiley, 1989",
+            "J. B. Conway, A Course in Functional Analysis, Springer, 1990",
+            "W. Rudin, Functional Analysis, McGraw-Hill, 1991"
+          ]
+        },
+        {
+          "code": "UEF4.3",
+          "name": "Differential Equations",
+          "type": "Fundamental",
+          "credits": 5,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Deepen understanding of ordinary differential equations, focusing on theoretical and numerical methods.",
+          "prerequisites": "Analysis III, Mathematical Physics Equations.",
+          "content": [
+            "Chapter 1: First-Order ODEs - Existence and uniqueness theorems, separable equations, exact equations",
+            "Chapter 2: Higher-Order Linear ODEs - Homogeneous and non-homogeneous equations, variation of parameters, method of undetermined coefficients",
+            "Chapter 3: Systems of ODEs - Linear systems, matrix methods, phase plane analysis, stability",
+            "Chapter 4: Numerical Methods - Euler's method, Runge-Kutta methods, stability and accuracy"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "W. E. Boyce & R. C. DiPrima, Elementary Differential Equations, Wiley, 2012",
+            "M. Braun, Differential Equations and Their Applications, Springer, 1993",
+            "G. F. Simmons, Differential Equations with Applications and Historical Notes, CRC Press, 2016"
+          ],
+          "note": "Practical work includes numerical simulations in Python or MATLAB"
+        },
+        {
+          "code": "UEM4.1",
+          "name": "Mathematics for Machine Learning 2",
+          "type": "Methodological",
+          "credits": 5,
+          "coefficient": 3,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Build on Mathematics for Machine Learning 1 to explore advanced mathematical concepts for machine learning, including optimization and probabilistic models.",
+          "prerequisites": "Mathematics for Machine Learning 1, Numerical Analysis.",
+          "content": [
+            "Chapter 1: Advanced Optimization - Convex optimization, Lagrange multipliers, gradient-based methods: Adam, RMSprop",
+            "Chapter 2: Probabilistic Models - Gaussian processes, Bayesian networks, Expectation-Maximization algorithm",
+            "Chapter 3: Dimensionality Reduction - Principal Component Analysis (PCA), Singular Value Decomposition (SVD)",
+            "Chapter 4: Advanced Machine Learning Models - Support Vector Machines, introduction to neural networks and deep learning"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "I. Goodfellow et al., Deep Learning, MIT Press, 2016",
+            "C. M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006",
+            "M. P. Deisenroth et al., Mathematics for Machine Learning, Cambridge University Press, 2020"
+          ],
+          "note": "Practical work includes implementing algorithms in Python using scikit-learn and TensorFlow"
+        },
+        {
+          "code": "UEM4.2",
+          "name": "Geometry",
+          "type": "Methodological",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Introduce fundamental concepts of geometry, focusing on Euclidean and non-Euclidean geometries.",
+          "prerequisites": "Algebra II, Analysis II.",
+          "content": [
+            "Chapter 1: Euclidean Geometry - Axioms, congruence, similarity, transformations: translations, rotations, reflections",
+            "Chapter 2: Analytic Geometry - Coordinate geometry in ℝ² and ℝ³, lines, planes, conic sections",
+            "Chapter 3: Introduction to Non-Euclidean Geometry - Hyperbolic and spherical geometries, basic properties and models",
+            "Chapter 4: Applications - Geometric transformations in computer graphics, applications in physics and engineering"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "D. A. Brannan et al., Geometry, Cambridge University Press, 2011",
+            "H. S. M. Coxeter, Introduction to Geometry, Wiley, 1989",
+            "M. J. Greenberg, Euclidean and Non-Euclidean Geometries, W. H. Freeman, 2007"
+          ]
+        },
+        {
+          "code": "UED4.1",
+          "name": "Introduction to Machine Learning",
+          "type": "Discovery",
+          "credits": 3,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Provide a practical introduction to machine learning techniques, with emphasis on implementation and applications in data science.",
+          "prerequisites": "Introduction to Artificial Intelligence, Fundamentals of Programming and Scientific Computing with Python.",
+          "content": [
+            "Chapter 1: Machine Learning Fundamentals - Supervised vs. unsupervised learning, model evaluation: train-test split, cross-validation",
+            "Chapter 2: Supervised Learning - Linear regression, logistic regression, decision trees, random forests",
+            "Chapter 3: Unsupervised Learning - Clustering: k-means, hierarchical clustering, dimensionality reduction: PCA, t-SNE",
+            "Chapter 4: Practical Implementation - Using scikit-learn for model building, data preprocessing and feature engineering"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "A. Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O'Reilly, 2019",
+            "T. M. Mitchell, Machine Learning, McGraw-Hill, 1997",
+            "S. J. Russell & P. Norvig, Artificial Intelligence: A Modern Approach, Pearson, 2020"
+          ],
+          "note": "Practical work includes Python-based projects using real datasets"
+        },
+        {
+          "code": "UET4.1",
+          "name": "Entrepreneurship and Creativity Workshops",
+          "type": "Transversal",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 84
+          },
+          "objectives": "Develop entrepreneurial skills and foster creativity through workshops, focusing on innovation in mathematics and applied fields.",
+          "prerequisites": "None.",
+          "content": [
+            "Chapter 1: Introduction to Entrepreneurship - Concepts, entrepreneurial mindset, identifying opportunities in mathematics and technology",
+            "Chapter 2: Business Model Development - Business canvas model, market analysis, value proposition",
+            "Chapter 3: Creativity Workshops - Problem-solving techniques: brainstorming, design thinking, prototyping solutions for mathematical applications",
+            "Chapter 4: Project Development - Developing a mini-project or startup idea, presentation and pitching skills"
+          ],
+          "evaluation": {
+            "continuous": 0,
+            "exam": 100
+          },
+          "references": [
+            "E. Ries, The Lean Startup, Crown Business, 2011",
+            "T. Kelley & D. Kelley, Creative Confidence, Crown Business, 2013",
+            "P. F. Drucker, Innovation and Entrepreneurship, Routledge, 2007"
+          ]
+        }
+      ]
+    },
+    "semester5": {
+      "total_credits": 30,
+      "total_hours": 504,
+      "courses": [
+        {
+          "code": "UEF5.1",
+          "name": "Introduction to Functional Analysis",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Introduce the principles of functional analysis, focusing on normed and Banach spaces, with applications in mathematics and physics.",
+          "prerequisites": "Normed Vector Spaces, Analysis III.",
+          "content": [
+            "Chapter 1: Normed and Banach Spaces - Review of normed spaces, completeness, examples: L^p spaces, function spaces",
+            "Chapter 2: Linear Operators - Bounded and continuous operators, operator norms, dual spaces",
+            "Chapter 3: Hilbert Spaces - Inner product spaces, orthogonality, Riesz representation theorem",
+            "Chapter 4: Spectral Theory - Eigenvalues and eigenvectors of operators, introduction to compact operators",
+            "Chapter 5: Applications - Applications in differential equations, weak convergence and applications"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "E. Kreyszig, Introductory Functional Analysis with Applications, Wiley, 1989",
+            "J. B. Conway, A Course in Functional Analysis, Springer, 1990",
+            "W. Rudin, Functional Analysis, McGraw-Hill, 1991"
+          ]
+        },
+        {
+          "code": "UEF5.2",
+          "name": "Differential Geometry",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Study the geometry of differentiable manifolds, curves, and surfaces, with applications in physics and engineering.",
+          "prerequisites": "Analysis III, Geometry.",
+          "content": [
+            "Chapter 1: Differentiable Manifolds - Definition, charts, atlases, tangent spaces, differentiable maps",
+            "Chapter 2: Curves in ℝⁿ - Parameterized curves, arc length, curvature, torsion",
+            "Chapter 3: Surfaces in ℝ³ - First and second fundamental forms, Gaussian and mean curvature",
+            "Chapter 4: Riemannian Geometry - Metrics, geodesics, introduction to curvature tensors",
+            "Chapter 5: Applications - Applications in general relativity, geometric modeling in computer graphics"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "J. M. Lee, Introduction to Smooth Manifolds, Springer, 2012",
+            "M. P. do Carmo, Differential Geometry of Curves and Surfaces, Prentice-Hall, 1976",
+            "F. W. Warner, Foundations of Differentiable Manifolds and Lie Groups, Springer, 1983"
+          ]
+        },
+        {
+          "code": "UEF5.3",
+          "name": "Inferential Statistics",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Provide a rigorous introduction to inferential statistics, focusing on estimation, hypothesis testing, and statistical modeling.",
+          "prerequisites": "Probability and Descriptive Statistics.",
+          "content": [
+            "Chapter 1: Point Estimation - Estimators, bias, variance, maximum likelihood estimation",
+            "Chapter 2: Confidence Intervals - Construction of confidence intervals, intervals for means and proportions",
+            "Chapter 3: Hypothesis Testing - Null and alternative hypotheses, p-values, significance levels, tests for means, variances, and proportions",
+            "Chapter 4: Regression Analysis - Linear regression, multiple regression, model diagnostics, goodness of fit",
+            "Chapter 5: Practical Implementation - Statistical analysis using Python or R, case studies in data analysis"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "G. Casella & R. L. Berger, Statistical Inference, Duxbury, 2002",
+            "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers, Wiley, 2014",
+            "J. A. Rice, Mathematical Statistics and Data Analysis, Duxbury, 2006"
+          ]
+        },
+        {
+          "code": "UEM5.1",
+          "name": "Complex Analysis",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Study the theory of complex functions, including analyticity, contour integration, and applications.",
+          "prerequisites": "Analysis III, Algebra III.",
+          "content": [
+            "Chapter 1: Complex Functions - Complex differentiation, analytic functions, Cauchy-Riemann equations",
+            "Chapter 2: Contour Integration - Complex integrals, Cauchy's theorem, Cauchy's integral formula",
+            "Chapter 3: Series and Residues - Power series, Taylor and Laurent series, residue theorem, applications",
+            "Chapter 4: Applications - Conformal mappings, applications in physics and engineering"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "L. V. Ahlfors, Complex Analysis, McGraw-Hill, 1979",
+            "J. B. Conway, Functions of One Complex Variable, Springer, 1978",
+            "E. M. Stein & R. Shakarchi, Complex Analysis, Princeton University Press, 2003"
+          ],
+          "note": "Practical work includes numerical computations in complex analysis"
+        },
+        {
+          "code": "UEM5.2",
+          "name": "Partial Differential Equations",
+          "type": "Methodological",
+          "credits": 3,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 1.5,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Introduce partial differential equations (PDEs), their classification, and solution methods, with applications in physics and engineering.",
+          "prerequisites": "Differential Equations, Mathematical Physics Equations.",
+          "content": [
+            "Chapter 1: Introduction to PDEs - Classification: elliptic, parabolic, hyperbolic, examples: Laplace, heat, wave equations",
+            "Chapter 2: First-Order PDEs - Method of characteristics, linear and quasilinear equations",
+            "Chapter 3: Second-Order PDEs - Separation of variables, Fourier series solutions",
+            "Chapter 4: Numerical Methods - Finite difference methods, stability and convergence"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "L. C. Evans, Partial Differential Equations, AMS, 2010",
+            "W. A. Strauss, Partial Differential Equations: An Introduction, Wiley, 2007",
+            "R. Haberman, Applied Partial Differential Equations, Pearson, 2012"
+          ],
+          "note": "Practical work includes numerical simulations in Python or MATLAB"
+        },
+        {
+          "code": "UED5.1",
+          "name": "Big Data and Cloud Computing",
+          "type": "Discovery",
+          "credits": 2,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Introduce concepts of big data and cloud computing, focusing on tools and techniques for handling large datasets in applied mathematics and data science.",
+          "prerequisites": "Introduction to Machine Learning, Fundamentals of Programming and Scientific Computing with Python.",
+          "content": [
+            "Chapter 1: Introduction to Big Data - Characteristics of big data: volume, velocity, variety, big data applications in mathematics and science",
+            "Chapter 2: Big Data Technologies - Hadoop ecosystem: HDFS, MapReduce, Apache Spark: RDDs, DataFrames",
+            "Chapter 3: Cloud Computing Fundamentals - Cloud service models: IaaS, PaaS, SaaS, cloud providers: AWS, Azure, Google Cloud",
+            "Chapter 4: Practical Implementation - Data processing with Spark, deploying simple applications on cloud platforms"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "T. White, Hadoop: The Definitive Guide, O'Reilly, 2015",
+            "M. Zaharia et al., Learning Spark, O'Reilly, 2020",
+            "A. Silberschatz et al., Database System Concepts, McGraw-Hill, 2019"
+          ],
+          "note": "Practical work includes hands-on exercises using Python and Spark"
+        },
+        {
+          "code": "UET5.1",
+          "name": "Scientific Methodology and Writing",
+          "type": "Transversal",
+          "credits": 1,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 84
+          },
+          "objectives": "Develop skills in scientific methodology and writing, focusing on research methods and communication in mathematics.",
+          "prerequisites": "None.",
+          "content": [
+            "Chapter 1: Scientific Methodology - Research design, hypothesis formulation, literature review techniques",
+            "Chapter 2: Scientific Writing - Structure of scientific papers, writing abstracts, introductions, conclusions",
+            "Chapter 3: Presentation Skills - Preparing and delivering scientific presentations, visual aids and data visualization",
+            "Chapter 4: Ethics in Research - Plagiarism, citation practices, ethical considerations in mathematical research"
+          ],
+          "evaluation": {
+            "continuous": 0,
+            "exam": 100
+          },
+          "references": [
+            "G. Pólya, How to Solve It, Princeton University Press, 2004",
+            "N. J. Higham, Handbook of Writing for the Mathematical Sciences, SIAM, 1998",
+            "J. M. Cargal, A Guide to Writing Mathematics, 2000"
+          ]
+        }
+      ]
+    },
+    "semester6": {
+      "total_credits": 30,
+      "total_hours": 504,
+      "courses": [
+        {
+          "code": "UEF6.1",
+          "name": "Advanced Probability",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Provide a rigorous foundation in advanced probability theory, focusing on measure-theoretic approaches and applications in statistics and data science.",
+          "prerequisites": "Inferential Statistics, Measure and Integration.",
+          "content": [
+            "Chapter 1: Probability Spaces - Sigma-algebras, probability measures, random variables, expectation, variance",
+            "Chapter 2: Convergence of Random Variables - Almost sure convergence, convergence in probability, law of large numbers, central limit theorem",
+            "Chapter 3: Conditional Probability and Expectation - Conditional distributions, conditional expectation, introduction to martingales",
+            "Chapter 4: Applications - Applications in statistical inference, introduction to stochastic modeling"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "P. Billingsley, Probability and Measure, Wiley, 1995",
+            "R. Durrett, Probability: Theory and Examples, Cambridge University Press, 2019",
+            "J. Rosenthal, A First Look at Rigorous Probability Theory, World Scientific, 2006"
+          ]
+        },
+        {
+          "code": "UEF6.2",
+          "name": "Introduction to Stochastic Processes",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 3,
+            "tutorial": 3,
+            "practical": 0,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Introduce stochastic processes, focusing on their properties and applications in modeling random phenomena.",
+          "prerequisites": "Advanced Probability, Inferential Statistics.",
+          "content": [
+            "Chapter 1: Introduction to Stochastic Processes - Definition, classification (discrete vs. continuous time), examples: Markov chains, Poisson processes",
+            "Chapter 2: Markov Chains - Transition probabilities, stationary distributions, applications in modeling",
+            "Chapter 3: Poisson Processes - Definition, inter-arrival times, applications in queueing theory",
+            "Chapter 4: Brownian Motion - Definition, properties, introduction to applications in finance and physics"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "S. M. Ross, Introduction to Probability Models, Academic Press, 2014",
+            "G. R. Grimmett & D. R. Stirzaker, Probability and Random Processes, Oxford University Press, 2020",
+            "J. R. Norris, Markov Chains, Cambridge University Press, 1998"
+          ]
+        },
+        {
+          "code": "UEF6.3",
+          "name": "Deep Learning and Physics-Informed Neural Networks",
+          "type": "Fundamental",
+          "credits": 7,
+          "coefficient": 4,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Explore advanced deep learning techniques, including physics-informed neural networks (PINNs), for solving scientific problems.",
+          "prerequisites": "Deep Learning, Mathematics for Machine Learning 2.",
+          "content": [
+            "Chapter 1: Advanced Neural Network Architectures - Review of deep neural networks, attention mechanisms, transformers",
+            "Chapter 2: Physics-Informed Neural Networks - Incorporating physical laws into neural networks, loss functions with PDE constraints",
+            "Chapter 3: Training and Optimization - Advanced optimization techniques: Adam, L-BFGS, handling high-dimensional data",
+            "Chapter 4: Applications - Solving PDEs with PINNs, applications in fluid dynamics, quantum mechanics"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "I. Goodfellow et al., Deep Learning, MIT Press, 2016",
+            "M. Raissi et al., Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations, Journal of Computational Physics, 2019",
+            "A. Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O'Reilly, 2019"
+          ]
+        },
+        {
+          "code": "UEM6.1",
+          "name": "Natural Language Processing (NLP)",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Introduce natural language processing techniques, focusing on text processing and machine learning models for language tasks.",
+          "prerequisites": "Introduction to Machine Learning, Deep Learning.",
+          "content": [
+            "Chapter 1: Introduction to NLP - Text preprocessing: tokenization, stemming, lemmatization, bag-of-words, TF-IDF",
+            "Chapter 2: Word Embeddings - Word2Vec, GloVe, contextual embeddings (BERT)",
+            "Chapter 3: NLP Models - Recurrent Neural Networks (RNNs), LSTMs, transformer models for text classification, sentiment analysis",
+            "Chapter 4: Practical Implementation - Building NLP pipelines with Python (NLTK, spaCy, Hugging Face), applications: text classification, named entity recognition"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "D. Jurafsky & J. H. Martin, Speech and Language Processing, Pearson, 2020",
+            "J. Eisenstein, Introduction to Natural Language Processing, MIT Press, 2019",
+            "Y. Goldberg, Neural Network Methods for Natural Language Processing, Morgan & Claypool, 2017"
+          ],
+          "note": "Practical work includes implementing NLP models in Python"
+        },
+        {
+          "code": "UEM6.2",
+          "name": "Computer Vision",
+          "type": "Methodological",
+          "credits": 4,
+          "coefficient": 2,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 1.5,
+            "personal_work": 2,
+            "total_hours": 56
+          },
+          "objectives": "Introduce computer vision techniques, focusing on image processing and deep learning models for vision tasks.",
+          "prerequisites": "Introduction to Machine Learning, Deep Learning.",
+          "content": [
+            "Chapter 1: Image Processing Basics - Image representation, filtering, edge detection, feature extraction",
+            "Chapter 2: Convolutional Neural Networks (CNNs) - Architecture: convolutional layers, pooling, training CNNs for image classification",
+            "Chapter 3: Advanced Vision Models - Object detection (YOLO, Faster R-CNN), image segmentation (U-Net)",
+            "Chapter 4: Practical Implementation - Building vision models with TensorFlow or PyTorch, applications: facial recognition, autonomous driving"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "R. Szeliski, Computer Vision: Algorithms and Applications, Springer, 2022",
+            "S. J. D. Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012",
+            "A. Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O'Reilly, 2019"
+          ],
+          "note": "Practical work includes implementing vision models in Python"
+        },
+        {
+          "code": "UED6.1",
+          "name": "Time Series",
+          "type": "Discovery",
+          "credits": 1,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 1.5,
+            "practical": 1.5,
+            "personal_work": 3,
+            "total_hours": 56
+          },
+          "objectives": "Introduce time series analysis, focusing on modeling and forecasting techniques for temporal data.",
+          "prerequisites": "Inferential Statistics, Data Analysis.",
+          "content": [
+            "Chapter 1: Introduction to Time Series - Characteristics of time series data, stationarity, autocorrelation",
+            "Chapter 2: Time Series Models - Moving average, autoregressive models, ARIMA models",
+            "Chapter 3: Forecasting - Forecasting techniques: exponential smoothing, evaluating forecast accuracy",
+            "Chapter 4: Applications - Time series analysis in finance, economics, visualization of time series data"
+          ],
+          "evaluation": {
+            "continuous": 40,
+            "exam": 60
+          },
+          "references": [
+            "R. H. Shumway & D. S. Stoffer, Time Series Analysis and Its Applications, Springer, 2017",
+            "C. Chatfield, The Analysis of Time Series: An Introduction, Chapman and Hall/CRC, 2019",
+            "G. E. P. Box et al., Time Series Analysis: Forecasting and Control, Wiley, 2015"
+          ]
+        },
+        {
+          "code": "UET6.1",
+          "name": "Ethics and History of Modern Mathematics",
+          "type": "Transversal",
+          "credits": 1,
+          "coefficient": 1,
+          "volume": {
+            "lecture": 1.5,
+            "tutorial": 0,
+            "practical": 0,
+            "personal_work": 2,
+            "total_hours": 84
+          },
+          "objectives": "Explore ethical issues in mathematical and data science applications, alongside the historical development of modern mathematics.",
+          "prerequisites": "None.",
+          "content": [
+            "Chapter 1: History of Modern Mathematics - Development of key concepts: analysis, probability, computing, contributions of mathematicians (e.g., Turing, von Neumann)",
+            "Chapter 2: Ethics in Mathematics and Data Science - Ethical issues in AI and data science, bias, fairness, privacy concerns",
+            "Chapter 3: Case Studies - Historical mathematical controversies, ethical dilemmas in modern applications (e.g., AI ethics)",
+            "Chapter 4: Discussion and Reflection - Debating ethical principles, writing reflective essays on mathematics and society"
+          ],
+          "evaluation": {
+            "continuous": 0,
+            "exam": 100
+          },
+          "references": [
+            "M. Kline, Mathematics and the Search for Knowledge, Oxford University Press, 1985",
+            "C. D. Hollings, Mathematics Across the Iron Curtain: A History of the Algebraic Theory of Semigroups, AMS, 2014",
+            "S. O. Hansson, The Ethics of Technology, Rowman & Littlefield, 2018"
+          ]
+        }
+      ]
+    }
+  },
+  "program_statistics": {
+    "total_lecture_hours": 1155,
+    "total_tutorial_hours": 672,
+    "total_practical_hours": 189,
+    "total_personal_work_hours": 1582,
+    "credits_distribution": {
+      "fundamental": 109,
+      "methodological": 56,
+      "discovery": 10,
+      "transversal": 5
+    },
+    "percentage_distribution": {
+      "fundamental": 60.55,
+      "methodological": 31.11,
+      "discovery": 5.56,
+      "transversal": 2.78
+    }
+  }
+}

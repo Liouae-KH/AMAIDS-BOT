@@ -1,0 +1,12 @@
+{
+    // Controls the font size in the editor
+    "editor.fontSize": 14,
+    // Enable auto save
+    "files.autoSave": "afterDelay",
+    // Configure format on save
+    "editor.formatOnSave": true,
+    // Example of a language-specific setting for Python
+    "[python]": {
+        "editor.tabSize": 4
+    }
+}
